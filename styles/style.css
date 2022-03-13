@@ -1,3 +1,50 @@
+html {
+  font-size: 10px; 
+font-family: 'Raleway', sans-serif;
+}
+h1 {
+  font-family: 'Noto Serif Display', serif;
+  font-size: 60px;
+  text-align: center;
+} 
+h2 {
+  font-family: 'Licorice', serif;
+  font-size: 80px;
+  text-align: center;
+}
 p {
-  color: red;
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+  text-align: center;
+}
+li {
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+html {
+  background-color: #427E5C;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #F1F0DE;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #427E5C;
+  text-shadow: 3px 3px 1px black;
+}
+h2 {
+  margin: 0;
+  padding: 5px 0;
+img {
+  display: block;
+  margin: 0 auto;
 }
